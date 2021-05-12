@@ -2,11 +2,11 @@
 
 Support for older Standard Definition models of Foscam Security cameras
 
-installation:
+## installation:
 
 copy the foscamsd files to the custom components directory of your home assistant config folder
 
-usage:
+## usage:
 
 ```
 camera:
