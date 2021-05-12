@@ -1,5 +1,5 @@
 {
-    "domain": "camera",
+    "domain": "foscamsd",
     "name": "Foscam SD",
     "version": "1.0",
     "documentation": "https://github.com/finity69x2/foscamsd/",
