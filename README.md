@@ -1,4 +1,4 @@
-# foscasmsd
+# FoscasmSD
 
 Support for older Standard Definition models of Foscam Security cameras
 
